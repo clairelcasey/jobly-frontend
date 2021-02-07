@@ -1,3 +1,5 @@
+import "./JobCard.css";
+
 /** Show JobCard
  * 
  * Prop:

@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { NavLink, useHistory } from "react-router-dom";
+import "./Navigation.css";
 
 import userContext from "./userContext";
 // import "./Navigation.css";
@@ -38,7 +39,7 @@ function Navigation({ logout }) {
           <NavLink key="profile" exact to="/profile" className="nav-link">Profile</NavLink>
         </li>
         <li className="nav-item">
-          <button onClick={handleClick} className="nav-link btn btn-link">Logout {currentUser.username}</button>
+          <button onClick={handleClick} className="nav-link btn btn-link nav-link-btn">Logout {currentUser.username}</button>
         </li>
       </>);
   } else {

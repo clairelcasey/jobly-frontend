@@ -3,6 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 
 import Routes from './Routes';
 import Navigation from './Navigation';
+import LoadingSpinner from "./shared/LoadingSpinner";
 
 import userContext from "./userContext";
 
@@ -138,7 +139,7 @@ function App() {
           <Navigation logout={logout} />
           {
             (isLoggingIn)
-              ? <div>Logging in....</div>
+              ? <LoadingSpinner/>
               : <Routes
                 login={login}
                 signup={signup}

@@ -1,5 +1,6 @@
 import { useEffect, useState, useCallback } from "react";
 import {debounce} from "lodash";
+import "./SearchForm.css";
 
 /** SearchForm
  * 
