@@ -56,7 +56,8 @@ You can view the deployed version of the frontend
   handle authorization/ authentication and routing
 * [PostgreSQL Database](https://www.postgresql.org/) - SQL database management
   system for storing job, company, and user information. 
-* [SQLAlchemy](https://www.sqlalchemy.org/) - database ORM
+* [Node-Postgres](https://node-postgres.com/) - SQL driver to connect to
+  database and execute SQL
 
 ## Authors
 
