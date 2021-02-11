@@ -60,7 +60,7 @@ You can view the deployed version of the frontend
 
 ## Authors
 
-My partner for both the frontend and backend was David Lee. 
+My partner for both the frontend and backend was [David Lee](https://github.com/d-lee84). 
 
 ## Acknowledgements
 
