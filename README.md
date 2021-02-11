@@ -1,9 +1,9 @@
 # Jobly
 
 A full-stack application where users can search for and apply to jobs, built
-with [React](https://reactjs.org/) on the front-end and
+with [React](https://reactjs.org/) on the frontend and
 [Node.js](https://nodejs.org/en/) / [Express.js](http://expressjs.com/) on the
-back-end. For ease of deployment, the backend and frontend repositories are
+backend. For ease of deployment, the backend and frontend repositories are
 separate. You can access the backend repository [here](https://github.com/clairelcasey/express-jobly).
 
 App allows users to sign-up or login. Once logged in, users can view companies,
