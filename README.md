@@ -17,7 +17,7 @@ routes require admin authorization.
 
 You can view the deployed version of the frontend
 [here](http://claire-casey-jobly.surge.sh/) and backend
-[here](https://clairecasey-jobly-backend.herokuapp.com/).
+[here](https://clairecasey-jobly-backend.herokuapp.com/companies).
 
 ## React Component Hierarchy 
 
